@@ -2,6 +2,11 @@
 Creates a alliterating version name based on given lists of words.
 Comes with some sample lists in example-words/ but can be used with any list of words.
 
+Example output:
+- amicably-acting-adventurous-armadillo
+- briskly-barking-bewildered-baboon
+- continuously-climbing-childish-clownfish
+
 ## Usage
 ```
 usage: VersionNameGenerator [-h] [-s START_LETTER] [-f FILES [FILES ...]]
