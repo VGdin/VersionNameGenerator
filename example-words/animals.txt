@@ -1,0 +1,26 @@
+Aardvark
+Bison
+Cheetah
+Dolphin
+Elephant
+Fox
+Giraffe
+Hippopotamus
+Iguana
+Jaguar
+Kangaroo
+Lion
+Meerkat
+Nightingale
+Ostrich
+Penguin
+Quokka
+Raccoon
+Sloth
+Tiger
+Uakari
+Vulture
+Walrus
+X-ray Tetra
+Yak
+Zebra
