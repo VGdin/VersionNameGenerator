@@ -1,26 +1,260 @@
+Antelope
+Alligator
+Armadillo
 Aardvark
-Bison
+Albatross
+Ant
+Anaconda
+Angelfish
+Ape
+Axolotl
+Bear
+Buffalo
+Bat
+Beaver
+Bobcat
+Baboon
+Badger
+Barracuda
+Bluejay
+Booby
+Cat
 Cheetah
+Chimpanzee
+Cobra
+Cougar
+Coyote
+Crocodile
+Camel
+Capybara
+Clownfish
+Dog
 Dolphin
+Duck
+Donkey
+Deer
+Dingo
+Dragonfly
+Dugong
+Dove
+Dhole
 Elephant
+Eagle
+Eel
+Emu
+Elk
+Egret
+Earthworm
+Echidna
+Eft
+Eurasian Lynx
 Fox
+Flamingo
+Falcon
+Ferret
+Firefly
+Flying Squirrel
+Fennec Fox
+Frigatebird
+Finch
+Fossa
+Gorilla
 Giraffe
+Gazelle
+Gecko
+Goldfish
+Goose
+Guppy
+Grasshopper
+Green Turtle
+Great White Shark
+Horse
+Hedgehog
+Hare
+Hummingbird
+Hyena
+Hamster
+Hermit Crab
 Hippopotamus
+Hornet
+Haddock
 Iguana
+Impala
+Ibex
+Irish Setter
+Indri
+Inchworm
+Inca Tern
+Indian Elephant
+Indian Rhinoceros
+Indian Star Tortoise
 Jaguar
+Jellyfish
+Jackal
+Jay
+Japanese Chin
+Jerboa
+Jellyfish
+Junco
+Jackrabbit
+Jabiru
 Kangaroo
+Koala
+Komodo Dragon
+Kookaburra
+Kingfisher
+Kestrel
+Killer Whale
+Kodiak Bear
+Kakapo
+Koi Fish
 Lion
+Leopard
+Lemur
+Lynx
+Llama
+Ladybug
+Lamprey
+Loggerhead Turtle
+Liger
+Little Penguin
+Monkey
 Meerkat
+Moose
+Manatee
+Mongoose
+Macaw
+Magpie
+Mantis
+Millipede
+Mule
+Newt
+Narwhal
+Numbat
+Nudibranch
 Nightingale
+Nuthatch
+Newfoundland Dog
+Northern Fur Seal
+Nandu
+Nurse Shark
+Octopus
+Ocelot
+Orangutan
 Ostrich
+Otter
+Osprey
+Ox
+Olive Ridley Turtle
+Okapi
+Oryx
+Panda
 Penguin
+Panther
+Polar Bear
+Platypus
+Peacock
+Puma
+Porcupine
+Puffin
+Pika
 Quokka
+Quoll
+Queen Snake
+Quail
+Quetzal
+Quarter Horse
+Queen Angelfish
+Quahog
+Quirky Jerboa
+Quokka Rat
+Rabbit
 Raccoon
+Rhinoceros
+Red Panda
+Robin
+Rottweiler
+Ram
+Rattlesnake
+Ring-Tailed Lemur
+Rainbow Trout
+Snake
+Shark
 Sloth
+Spider
+Seahorse
+Swan
+Salamander
+Skunk
+Starfish
+Snow Leopard
 Tiger
+Turtle
+Tarantula
+Tapir
+Toucan
+Tarsier
+Tasmanian Devil
+Turkey
+Timber Wolf
+Thresher Shark
 Uakari
+Uguisu
+Umbrellabird
+Uinta Ground Squirrel
+Urial
+Uromastyx
+Utonagan
+Urutu
+Uguisu
+Unicorn
 Vulture
+Vampire Bat
+Vicuña
+Vaquita
+Vizsla
+Velvet Worm
+Vermilion Flycatcher
+Venus Flytrap
+Vietnamese Pot-Bellied Pig
+Vole
+Wolf
+Whale
 Walrus
-X-ray Tetra
+Warthog
+Wombat
+Woodpecker
+Weasel
+Wigeon
+White Rhinoceros
+Western Gorilla
+X-Ray Tetra
+Xenops
+Xoloitzcuintli
+X-ray Fish
+Xenopus
+Xantus's Hummingbird
+Xanthareel
+Xema
+Xenarthra
+Xiphias
 Yak
+Yellow-Eyed Penguin
+Yorkshire Terrier
+Yeti Crab
+Yellow Warbler
+Yabby
+Yellow-Bellied Marmot
+Yapok
+Yuma Myotis
+Yellowfin Tuna
 Zebra
+Zebu
+Zonkey
+Zorse
+Zorilla
+Zokor
+Zebra Shark
+Zigzag Salamander
+Zebra Dove
+Zebra Finch
