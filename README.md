@@ -1,3 +1,9 @@
+# VersionNameGenerator
+Creates a alliterating version name based on given lists of words.
+Comes with some sample lists in example-words/ but can be used with any list of words.
+
+## Usage
+```
 usage: VersionNameGenerator [-h] [-s START_LETTER] [-f FILES [FILES ...]]
 
 Generate a version name from provided files.
@@ -10,3 +16,4 @@ optional arguments:
                         File with words to use in generating name. Can be used several times, picking random word from each file in order specified.
 
 Example: ./main.py -s s --file example-words/verbs.txt example-words/animals.txt
+```
